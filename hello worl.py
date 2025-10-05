@@ -1,3 +1,5 @@
+# this is a simple video player that plays video in terminal using ascii characters
+# it uses opencv to read video frames and convert them to ascii art
 import cv2
 import os
 import time
